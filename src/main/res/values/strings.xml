@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BibliotecApp</string>
+    <string name="livro">Livro</string>
+    <string name="conteudo">Conteúdo</string>
+    <string name="shopping">Shopping</string>
+    <string name="listar_livros">Listar Livros</string>
+    <string name="gerenciar_livros">Gerenciar Livros</string>
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="nome">Nome</string>
+    <string name="autor">Autor</string>
+    <string name="paginas">Paginas</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="gerenciar_conteudo">Gerenciar Conteúdo</string>
+    <string name="sobre">Sobre</string>
+    <string name="oQue">O Que</string>
+    <string name="listar_conteudo">Listar Conteúdo</string>
+    <string name="gerenciar_shopping">Gerenciar Shopping</string>
+    <string name="listar_shopping">Listar Shopping</string>
+</resources>
